@@ -1,0 +1,7 @@
+531642 última linha Rhuan = 5 letras
+5 => linha 1 coluna 5
+3 => linha 2 coluna 3
+1 => linha 3 coluna 1
+6 => linha 4 coluna 6
+4 => linha 5 coluna 4
+2 => linha 6 coluna 2

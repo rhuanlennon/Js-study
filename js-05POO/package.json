@@ -1,0 +1,12 @@
+{
+  "name": "js-05poo",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank aprendendo POO ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhuan Lennon",
+  "license": "ISC",
+  "type": "module"
+}
